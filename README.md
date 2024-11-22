@@ -1,2 +1,2 @@
 ## Web Music Player
-A musci player created uing HTML, CSS and JavaScript
+A muscic player created uing HTML, CSS and JavaScript
